@@ -2,11 +2,11 @@
 title: Christine Tantiwa Kinson
 timezone: Europe/London
 collections:
+  ss2017:
+    title: 2017 Collection
+    output: true
   posts:
     title: Posts
-    output: true
-  ss2017:
-    title: SS2017
     output: true
   uploads:
     title: Uploads
