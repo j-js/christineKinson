@@ -1,7 +1,7 @@
 ---
 title: Contact
 date: 2017-03-17 22:23:00 +00:00
-position: 0
+position: 1
 layout: page
 ---
 
