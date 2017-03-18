@@ -5,6 +5,9 @@ collections:
   ss2017:
     title: 2017 Collection
     output: true
+  authors:
+    title: Authors
+    output: true
   posts:
     title: Posts
     output: true
